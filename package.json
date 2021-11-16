@@ -1,0 +1,8 @@
+{
+  "name": "nct-tech",
+  "version": "1.0.0",
+  "description": "inventory management system",
+  "main": "app.js",
+  "author": "onyeoka chinedu",
+  "license": "MIT"
+}
